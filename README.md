@@ -12,29 +12,29 @@
 
 ## My Skills
 - **Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
+
 - **Frameworks**:  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   
 - **Databases**:  
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  
+
 - **Frontend**:  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Cloud**:  
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ## Competitive Programming Profiles
 - **HackerRank**: [View my profile](https://www.hackerrank.com/)  
   ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 - **LeetCode**: [View my profile](https://leetcode.com/)  
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 - **CodeChef**: [View my profile](https://www.codechef.com/)  
   ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
@@ -45,9 +45,9 @@
   [GitHub Repository](https://github.com/nagesh-bathula/Student-Info)
 
 ## GitHub Stats
-![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagesh-bathula&show_icons=true&theme=radical)
+![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagesh-bathula&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagesh-bathula&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagesh-bathula&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagesh-bathula-88392b183/)
