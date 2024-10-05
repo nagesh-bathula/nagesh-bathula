@@ -29,7 +29,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/nagesh-bathula/)](https://www.linkedin.com/in/nagesh-bathula-88392b183/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/nagesh-bathula-88392b183/)]
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/nagesh-bathula)
 
 ### Outside of Work:
